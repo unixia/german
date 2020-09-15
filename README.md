@@ -17,3 +17,10 @@ My German Language Learnings
 |12|Sie sind eine Frau und ich bin ein Mann|You are a woman and I am a man|
 |13|Du bist ein Junge|You are a boy|
 |14|Sie Sind ein Madchen|You are a girl|
+|15|Wasser|water|
+|16|Brot|bread|
+|17|Ein Mann trinkt|A man drinks|
+|18|Er|He|
+|19|Brot und Wasser|Bread and water|
+|20|Es ist ein kind| It is a child|
+|21|Sie ist eine Frau|She is a woman|
